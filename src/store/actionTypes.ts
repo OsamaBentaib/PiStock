@@ -1,0 +1,3 @@
+export const GET_EXPLORE_PHOTOS = "GET_EXPLORE_PHOTOS";
+export const LOADING = "LOADING";
+export const GET_EXPLORE_VIDEOS = "GET_EXPLORE_VIDEOS";
