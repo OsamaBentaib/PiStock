@@ -1,7 +1,7 @@
 # PiStock
 
 
-Demo [https://beosama.com](https://beosama.com).
+Demo [https://pistock.beosama.com](https://pistock.beosama.com).
 
 ## Available Scripts
 
